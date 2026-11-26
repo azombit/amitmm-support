@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="עמית מ.מ – עמדת ניהול">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1b2f4d"/><stop offset="1" stop-color="#0b1626"/></linearGradient></defs>
+  <rect width="256" height="256" rx="52" fill="url(#g)"/>
+  <rect x="40" y="52" width="176" height="118" rx="14" fill="none" stroke="#ffffff" stroke-width="12"/>
+  <path d="M100 206h56M128 170v36" stroke="#ffffff" stroke-width="12" stroke-linecap="round"/>
+  <path d="M128 72l30 11v20c0 20-14 32-30 37-16-5-30-17-30-37V83z" fill="#F5A524"/>
+  <path d="M115 106l9 9 18-20" fill="none" stroke="#1b2f4d" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

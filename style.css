@@ -52,3 +52,6 @@
   @media (max-width:860px){.hero .wrap{grid-template-columns:1fr;text-align:center}.hero p{margin-inline:auto}.logo-big{width:160px;height:160px;grid-row:1}.grid,.steps{grid-template-columns:1fr 1fr}.hero h1{font-size:34px}}
   @media (max-width:560px){.grid,.steps{grid-template-columns:1fr}}
   .pick{font-weight:600;opacity:.9;margin:0 0 10px}
+  .grid.two{grid-template-columns:1fr 1fr}
+  .card ol{margin:8px 0 10px;padding-inline-start:20px;color:var(--ink)}.card ol li{margin-bottom:6px}
+  @media (max-width:560px){.grid.two{grid-template-columns:1fr}}

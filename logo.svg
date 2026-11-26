@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="עמית מ.מ">
+  <rect width="256" height="256" rx="52" fill="#185FA5"/>
+  <path d="M128 44l60 22v40c0 40-28 64-60 74-32-10-60-34-60-74V66z" fill="none" stroke="#ffffff" stroke-width="13" stroke-linejoin="round"/>
+  <path d="M100 130l20 20 40-44" fill="none" stroke="#ffffff" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

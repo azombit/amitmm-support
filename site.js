@@ -10,3 +10,5 @@ function links() {
 const saved = (() => { try { return localStorage.lang; } catch (e) {} })();
 set(saved === 'en' ? 'en' : 'he');
 document.getElementById('y').textContent = new Date().getFullYear();
+// Phones: put the Android download first and make it the main button.
+if (/android/i.test(navigator.userAgent)) { const w = document.getElementById('dl'), a = document.getElementById('dla'); if (w && a) { w.classList.add('ghost'); a.classList.remove('ghost'); w.parentNode.insertBefore(a, w); } }
